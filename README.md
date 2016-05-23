@@ -39,3 +39,14 @@ Link: https://coderwall.com/p/fasnya/add-git-branch-name-to-bash-prompt
 Name: The Shapes of CSS
 Link: https://css-tricks.com/examples/ShapesOfCSS/
 
+Name: Disadvantages of AngularJS or cons of it
+Link: https://medium.com/@mnemon1ck/why-you-should-not-use-angularjs-1df5ddf6fc99#.8mw0vrtgc
+
+Name: Animations
+Links:
+
+https://robots.thoughtbot.com/css-animation-for-beginners
+http://tympanus.net/codrops/
+http://www.rleonardi.com/interactive-resume/
+http://webdesign.tutsplus.com/articles/15-inspiring-examples-of-css-animation-on-codepen--cms-23937
+
