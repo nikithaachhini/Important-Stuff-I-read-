@@ -57,4 +57,10 @@ http://webdesign.tutsplus.com/articles/15-inspiring-examples-of-css-animation-on
 Name: How to write good unit test?
 Link: https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.k5ec20qwa
 
+Name : Shape Transformation in CSS
+Links:
+
+https://css-tricks.com/working-with-shapes-in-web-design/
+https://sarasoueidan.com/blog/animating-css-shapes/
+
 
