@@ -66,4 +66,7 @@ https://sarasoueidan.com/blog/animating-css-shapes/
 Name: Learn Handlebar js
 Link: http://handlebarsjs.com/
 
+Name: To learn the configuaration for TYPESCRIPT
+Link: https://angular.io/docs/ts/latest/guide/typescript-configuration.html#!/%23tsconfig
+
 
