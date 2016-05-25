@@ -70,3 +70,12 @@ Name: To learn the configuaration for TYPESCRIPT
 Link: https://angular.io/docs/ts/latest/guide/typescript-configuration.html#!/%23tsconfig
 
 
+25-05-2016
+
+Name: Learn GULP
+Link: https://css-tricks.com/gulp-for-beginners/
+
+Name: Angular2 create app
+Link: https://scotch.io/tutorials/creating-your-first-angular-2-components
+
+
