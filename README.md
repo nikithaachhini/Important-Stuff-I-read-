@@ -83,4 +83,9 @@ Link: https://scotch.io/tutorials/creating-your-first-angular-2-components
 Name: To check browser support
 Link: caniuse.com
 
+01-06-2016
+
+Name: how to reduce repetetion in html
+Link: http://www.codereadability.com/reducing-repetition-in-html-templates/
+
 
