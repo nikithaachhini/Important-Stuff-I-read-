@@ -88,4 +88,9 @@ Link: caniuse.com
 Name: how to reduce repetetion in html
 Link: http://www.codereadability.com/reducing-repetition-in-html-templates/
 
+15-06-2016
+
+Name: CORS - What exactly is it?
+Link:  https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
+
 
