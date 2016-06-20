@@ -94,3 +94,9 @@ Name: CORS - What exactly is it?
 Link:  https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
 
 
+20-06-2016
+
+Name: Angular2 Vs React
+Link: https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.7i8eaiucf
+
+
