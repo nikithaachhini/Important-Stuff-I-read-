@@ -100,3 +100,11 @@ Name: Angular2 Vs React
 Link: https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51#.7i8eaiucf
 
 
+22-06-2016
+Name: highCharts support in AngularJS
+Link: http://www.highcharts.com/blog/194-using-highcharts-with-angular-js
+
+Name: highcharts
+Link: http://www.highcharts.com/
+
+
