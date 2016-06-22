@@ -107,4 +107,7 @@ Link: http://www.highcharts.com/blog/194-using-highcharts-with-angular-js
 Name: highcharts
 Link: http://www.highcharts.com/
 
+Name: AngularJS UI ROUTER
+Link: https://scotch.io/tutorials/3-simple-tips-for-using-ui-router
+
 
