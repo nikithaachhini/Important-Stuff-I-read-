@@ -111,3 +111,9 @@ Name: AngularJS UI ROUTER
 Link: https://scotch.io/tutorials/3-simple-tips-for-using-ui-router
 
 
+30-06-2016
+
+Name: JSDoc. How to generate using Grunt?
+Link: https://github.com/krampstudio/grunt-jsdoc
+
+
