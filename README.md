@@ -117,3 +117,10 @@ Name: JSDoc. How to generate using Grunt?
 Link: https://github.com/krampstudio/grunt-jsdoc
 
 
+
+/* 2017 NEW YEAR*/
+16-02-2017
+Name: how to contribute to open source?
+Link: https://opensource.guide/
+
+
