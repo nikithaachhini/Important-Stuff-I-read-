@@ -16,3 +16,5 @@ https://css-tricks.com/almanac/properties/c/counter-increment/
 http://www.456bereastreet.com/archive/201105/styling_ordered_list_numbers/
 
 https://css-tricks.com/useful-nth-child-recipies/
+
+http://onwebdev.blogspot.com/2011/02/css-counters-function.html
