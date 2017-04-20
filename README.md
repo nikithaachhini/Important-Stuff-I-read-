@@ -141,4 +141,9 @@ https://www.codementor.io/reactjs/tutorial/react-vs-angularjs
 https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial
 https://facebook.github.io/react/
 
+20-04-2017
+
+Name: JS interview Questions
+Link: https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z
+
 
