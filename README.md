@@ -147,3 +147,13 @@ Name: JS interview Questions
 Link: https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z
 
 
+05-05-2017
+
+Name: Angular 4 upgrade
+Links:
+http://angularjs.blogspot.in/2017/03/angular-400-now-available.html
+http://www.pixelcrayons.com/blog/industry-news/forget-angular-3-google-is-set-to-release-angular-4/
+https://angular.io/
+https://docs.google.com/document/d/195L4WaDSoI_kkW094LlShH6gT3B7K1GZpSBnnLkQR-g/preview#
+
+
