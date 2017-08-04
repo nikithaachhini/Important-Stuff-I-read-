@@ -156,4 +156,10 @@ http://www.pixelcrayons.com/blog/industry-news/forget-angular-3-google-is-set-to
 https://angular.io/
 https://docs.google.com/document/d/195L4WaDSoI_kkW094LlShH6gT3B7K1GZpSBnnLkQR-g/preview#
 
+04-08-2017
+Name: CSS3114 font face permission issue
+Link: http://marinbezhanov.com/how-to-embed-webfonts-properly-and-how-to-solve-the-ambiguous-css3111-font-face-encountered-unknown-error/
+
+https://medium.com/@zikaitoh/css3111-and-css3114-issue-640e7d5e9163
+
 
