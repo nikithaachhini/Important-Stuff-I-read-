@@ -18,3 +18,11 @@ http://www.456bereastreet.com/archive/201105/styling_ordered_list_numbers/
 https://css-tricks.com/useful-nth-child-recipies/
 
 http://onwebdev.blogspot.com/2011/02/css-counters-function.html
+
+
+August 11, 2017
+COLORS IN CSS:
+
+* didn't know colors was based on physics
+* what is hexadecimal color? How does it work?
+https://medium.com/dev-channel/css-hex-colors-demystified-51c712179982
