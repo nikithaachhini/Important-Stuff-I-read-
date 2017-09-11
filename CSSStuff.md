@@ -26,3 +26,7 @@ COLORS IN CSS:
 * didn't know colors was based on physics
 * what is hexadecimal color? How does it work?
 https://medium.com/dev-channel/css-hex-colors-demystified-51c712179982
+
+September 11, 2017
+Ellipsis:
+https://software.intel.com/en-us/html5/hub/blogs/ellipse-my-text/
