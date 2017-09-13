@@ -30,3 +30,7 @@ https://medium.com/dev-channel/css-hex-colors-demystified-51c712179982
 September 11, 2017
 Ellipsis:
 https://software.intel.com/en-us/html5/hub/blogs/ellipse-my-text/
+
+
+September 13, 2017
+https://css-tricks.com/almanac/selectors/p/placeholder/
