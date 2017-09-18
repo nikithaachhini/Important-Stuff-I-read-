@@ -34,3 +34,8 @@ https://software.intel.com/en-us/html5/hub/blogs/ellipse-my-text/
 
 September 13, 2017
 https://css-tricks.com/almanac/selectors/p/placeholder/
+
+September 18, 2017
+
+CSS COLUMNS
+https://css-tricks.com/guide-responsive-friendly-css-columns/
