@@ -39,3 +39,7 @@ September 18, 2017
 
 CSS COLUMNS
 https://css-tricks.com/guide-responsive-friendly-css-columns/
+
+RESPONSIVE WEB DESIGN
+https://alistapart.com/article/responsive-web-design
+https://codepen.io/tjacobdesign/post/building-flexible-layouts
