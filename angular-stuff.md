@@ -17,3 +17,7 @@ https://jaxenter.com/road-to-angular-5-133253.html
 Origami - A bridge between Polymer 2 and Angular 2
 Link: https://www.npmjs.com/package/@codebakery/origami
 
+06-11-2017
+ngRx - Redux implementation for angular
+Link: https://gist.github.com/btroncone/a6e4347326749f938510
+
