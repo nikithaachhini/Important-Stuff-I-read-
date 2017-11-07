@@ -163,3 +163,9 @@ Link: http://marinbezhanov.com/how-to-embed-webfonts-properly-and-how-to-solve-t
 https://medium.com/@zikaitoh/css3111-and-css3114-issue-640e7d5e9163
 
 
+07-11-2017
+Functional Programming in JavaScript
+Link: https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257
+videos: Anjana vakkil functional programmming & Immutable data structures on youtube
+
+
