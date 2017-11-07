@@ -21,3 +21,7 @@ Link: https://www.npmjs.com/package/@codebakery/origami
 ngRx - Redux implementation for angular
 Link: https://gist.github.com/btroncone/a6e4347326749f938510
 
+07-11-2017
+What is ngDefaultControl
+Link: https://stackoverflow.com/questions/46465891/what-is-ngdefaultcontrol-in-angular
+
