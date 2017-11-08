@@ -168,4 +168,8 @@ Functional Programming in JavaScript
 Link: https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257
 videos: Anjana vakkil functional programmming & Immutable data structures on youtube
 
+08-11-2017
+What is map, filter and reduce in vanilla JS?
+Link: http://cryto.net/~joepie91/blog/2015/05/04/functional-programming-in-javascript-map-filter-reduce/
+
 
