@@ -25,3 +25,8 @@ Link: https://gist.github.com/btroncone/a6e4347326749f938510
 What is ngDefaultControl
 Link: https://stackoverflow.com/questions/46465891/what-is-ngdefaultcontrol-in-angular
 
+14-06-2018
+While upgrading to angular 6 - was trying to upgrade rxjs to 6
+What's new in rxjs 6?
+Link: https://auth0.com/blog/whats-new-in-rxjs-6/
+
