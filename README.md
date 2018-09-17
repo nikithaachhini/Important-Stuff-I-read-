@@ -172,4 +172,19 @@ videos: Anjana vakkil functional programmming & Immutable data structures on you
 What is map, filter and reduce in vanilla JS?
 Link: http://cryto.net/~joepie91/blog/2015/05/04/functional-programming-in-javascript-map-filter-reduce/
 
+10-09-2018
+Started to learn on how to create a website using wordpress
+what's wordpress and how to buy a domain and web hosting ex: theaussiekids.com
+
+17-09-2018
+All about wordpress Vs jhoomla Vs drupal
+How to customize a wordpress theme
+https://websitesetup.org/customize-wordpress-101/
+https://websitesetup.org/
+https://websitesetup.org/cms-comparison-wordpress-vs-joomla-drupal/
+https://websitesetup.org/free-wordpress-themes/
+https://themeforest.net/
+https://www.wpexplorer.com/using-wordpress-plugins/
+https://websitesetup.org/best-wordpress-hosting-performance/
+
 
