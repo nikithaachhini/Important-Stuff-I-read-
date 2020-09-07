@@ -187,4 +187,8 @@ https://themeforest.net/
 https://www.wpexplorer.com/using-wordpress-plugins/
 https://websitesetup.org/best-wordpress-hosting-performance/
 
+07-09-2020 // corona phase
+Name: Introduction to D3 JS
+Link: https://www.freecodecamp.org/news/learn-d3-js-in-5-minutes-c5ec29fb0725/
+
 
