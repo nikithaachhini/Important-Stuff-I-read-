@@ -191,4 +191,8 @@ https://websitesetup.org/best-wordpress-hosting-performance/
 Name: Introduction to D3 JS
 Link: https://www.freecodecamp.org/news/learn-d3-js-in-5-minutes-c5ec29fb0725/
 
+25-01-2021 
+Name: Why do we need SPA?
+Link: https://www.pluralsight.com/guides/why-do-we-need-a-single-page-application
+
 
