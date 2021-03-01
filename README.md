@@ -195,4 +195,8 @@ Link: https://www.freecodecamp.org/news/learn-d3-js-in-5-minutes-c5ec29fb0725/
 Name: Why do we need SPA?
 Link: https://www.pluralsight.com/guides/why-do-we-need-a-single-page-application
 
+01-03-2021
+Name: What is Big O notation? Why do we need it?
+Link: https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
+Link: https://towardsdatascience.com/linear-time-vs-logarithmic-time-big-o-notation-6ef4227051fb
 
