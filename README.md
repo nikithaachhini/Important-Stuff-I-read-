@@ -208,3 +208,6 @@ Name: Design Patterns in JavaScript
 Link: https://addyosmani.com/resources/essentialjsdesignpatterns/book/#:~:text=in%20software%20design.-,What%20is%20a%20Pattern%3F,quite%20a%20few%20different%20situations.
 Link: https://www.telerik.com/blogs/design-patterns-in-javascript
 
+06-05-2021
+Name: Animations in angular component
+Link: https://www.freecodecamp.org/news/how-to-use-animation-with-angular-6-675b19bc3496/
