@@ -33,6 +33,9 @@ Link: https://www.linkedin.com/pulse/unusual-ways-successful-people-secured-drea
 Name: Quick start · TypeScript
 Link: https://www.typescriptlang.org/docs/tutorial.html
 
+
+
+
 Name: Coderwall | Add git branch name to bash prompt
 Link: https://coderwall.com/p/fasnya/add-git-branch-name-to-bash-prompt
 
@@ -199,4 +202,9 @@ Link: https://www.pluralsight.com/guides/why-do-we-need-a-single-page-applicatio
 Name: What is Big O notation? Why do we need it?
 Link: https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
 Link: https://towardsdatascience.com/linear-time-vs-logarithmic-time-big-o-notation-6ef4227051fb
+
+06-05-2021
+Name: Design Patterns in JavaScript
+Link: https://addyosmani.com/resources/essentialjsdesignpatterns/book/#:~:text=in%20software%20design.-,What%20is%20a%20Pattern%3F,quite%20a%20few%20different%20situations.
+Link: https://www.telerik.com/blogs/design-patterns-in-javascript
 
