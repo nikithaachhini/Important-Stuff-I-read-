@@ -211,3 +211,12 @@ Link: https://www.telerik.com/blogs/design-patterns-in-javascript
 06-05-2021
 Name: Animations in angular component
 Link: https://www.freecodecamp.org/news/how-to-use-animation-with-angular-6-675b19bc3496/
+
+13-05-2021
+Name: Throttling and Debouncing in JS
+Link: https://www.telerik.com/blogs/debouncing-and-throttling-in-javascript
+
+Name: Critical Rendering path
+Link: https://bitsofco.de/understanding-the-critical-rendering-path/
+Link: https://medium.com/@luisvieira_gmr/understanding-the-critical-rendering-path-rendering-pages-in-1-second-735c6e45b47a
+Link: https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path
