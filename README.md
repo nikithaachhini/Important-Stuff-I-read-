@@ -220,3 +220,8 @@ Name: Critical Rendering path
 Link: https://bitsofco.de/understanding-the-critical-rendering-path/
 Link: https://medium.com/@luisvieira_gmr/understanding-the-critical-rendering-path-rendering-pages-in-1-second-735c6e45b47a
 Link: https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path
+
+16-05-2021
+Name: How to implement debounce in ES6?
+Link: https://medium.com/@TCAS3/debounce-deep-dive-javascript-es6-e6f8d983b7a1
+Link: https://www.freecodecamp.org/news/javascript-debounce-example/
