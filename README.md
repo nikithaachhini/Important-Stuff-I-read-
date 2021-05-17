@@ -225,3 +225,7 @@ Link: https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_renderin
 Name: How to implement debounce in ES6?
 Link: https://medium.com/@TCAS3/debounce-deep-dive-javascript-es6-e6f8d983b7a1
 Link: https://www.freecodecamp.org/news/javascript-debounce-example/
+
+17-05-2021
+Name: String built in methods and how to reverse a string?
+Link: https://www.freecodecamp.org/news/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb/
