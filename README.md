@@ -229,3 +229,9 @@ Link: https://www.freecodecamp.org/news/javascript-debounce-example/
 17-05-2021
 Name: String built in methods and how to reverse a string?
 Link: https://www.freecodecamp.org/news/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb/
+
+24-05-2021
+Name: Alternative to Switch case is object literal
+Link: https://medium.com/chrisburgin/rewriting-javascript-replacing-the-switch-statement-cfff707cf045
+Link: https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-literals
+Link: https://itnext.io/an-alternative-to-boilerplate-if-else-switch-in-javascript-embrace-the-open-closed-principle-408446cf562d
