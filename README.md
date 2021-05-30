@@ -242,3 +242,7 @@ Link: https://www.codecademy.com/resources/blog/css-interview-questions/
 Link: https://www.interviewbit.com/css-interview-questions/
 Link: https://www.edureka.co/blog/interview-questions/css-interview-questions/
 Link: https://www.heartinternet.uk/blog/4-common-css-problems-and-how-to-solve-them/
+
+30-05-2021
+Name: When NOT to use arrow function & how arrow function works with this
+Link: https://www.section.io/engineering-education/how-to-use-javascript-arrow-functions-and-this-keyword/
