@@ -235,3 +235,10 @@ Name: Alternative to Switch case is object literal
 Link: https://medium.com/chrisburgin/rewriting-javascript-replacing-the-switch-statement-cfff707cf045
 Link: https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-literals
 Link: https://itnext.io/an-alternative-to-boilerplate-if-else-switch-in-javascript-embrace-the-open-closed-principle-408446cf562d
+
+30-05-2021
+Name: CSS must know concepts
+Link: https://www.codecademy.com/resources/blog/css-interview-questions/
+Link: https://www.interviewbit.com/css-interview-questions/
+Link: https://www.edureka.co/blog/interview-questions/css-interview-questions/
+Link: https://www.heartinternet.uk/blog/4-common-css-problems-and-how-to-solve-them/
