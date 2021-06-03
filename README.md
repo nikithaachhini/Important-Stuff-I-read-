@@ -246,3 +246,7 @@ Link: https://www.heartinternet.uk/blog/4-common-css-problems-and-how-to-solve-t
 30-05-2021
 Name: When NOT to use arrow function & how arrow function works with this
 Link: https://www.section.io/engineering-education/how-to-use-javascript-arrow-functions-and-this-keyword/
+
+03-06-21
+Name: How to load JS and where to use <script>
+Link: https://levelup.gitconnected.com/all-about-script-87fea475b976
