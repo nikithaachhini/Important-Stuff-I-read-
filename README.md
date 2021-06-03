@@ -250,3 +250,7 @@ Link: https://www.section.io/engineering-education/how-to-use-javascript-arrow-f
 03-06-21
 Name: How to load JS and where to use <script>
 Link: https://levelup.gitconnected.com/all-about-script-87fea475b976
+  
+Name: Load local JSON file in JS
+Link: https://codepen.io/KryptoniteDove/post/load-json-file-locally-using-pure-javascript
+Link: https://gist.github.com/laurenancona/bd560948d71054e3d1477e43c4d48cb6
