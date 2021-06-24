@@ -254,3 +254,12 @@ Link: https://levelup.gitconnected.com/all-about-script-87fea475b976
 Name: Load local JSON file in JS
 Link: https://codepen.io/KryptoniteDove/post/load-json-file-locally-using-pure-javascript
 Link: https://gist.github.com/laurenancona/bd560948d71054e3d1477e43c4d48cb6
+  
+24-06-21
+Name: How to check equality of objects and nested objects
+Link: https://dmitripavlutin.com/how-to-compare-objects-in-javascript/
+ 
+Name: for deep clone of object why we shouldn't use JSON.parse(JSON.stringify(obj))
+Link: https://medium.com/@pmzubar/why-json-parse-json-stringify-is-a-bad-practice-to-clone-an-object-in-javascript-b28ac5e36521
+  
+
