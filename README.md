@@ -262,4 +262,12 @@ Link: https://dmitripavlutin.com/how-to-compare-objects-in-javascript/
 Name: for deep clone of object why we shouldn't use JSON.parse(JSON.stringify(obj))
 Link: https://medium.com/@pmzubar/why-json-parse-json-stringify-is-a-bad-practice-to-clone-an-object-in-javascript-b28ac5e36521
   
-
+29-06-2021
+Name: What is a synthetic event? what is event pooling in react?
+Link: https://stackoverflow.com/questions/36114196/what-is-event-pooling-in-react
+  
+Name: synthetic event? events in react? event handling in class component, function component and custom component
+Link: https://blog.logrocket.com/a-guide-to-react-onclick-event-handlers-d411943b14dd/
+ 
+Name: How does synthetic work in asynchronous way?
+Link: https://deepscan.io/docs/rules/react-missing-event-persist
