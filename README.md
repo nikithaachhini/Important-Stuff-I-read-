@@ -275,3 +275,6 @@ Link: https://deepscan.io/docs/rules/react-missing-event-persist
 08-07-2021
 Name: when should you use function as first parameter in setState function in React?
 Link: https://medium.com/@wisecobbler/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1
+  
+Name: React interview questions
+Link: https://ui.dev/react-interview-questions/
