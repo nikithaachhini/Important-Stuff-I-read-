@@ -269,5 +269,9 @@ Link: https://stackoverflow.com/questions/36114196/what-is-event-pooling-in-reac
 Name: synthetic event? events in react? event handling in class component, function component and custom component
 Link: https://blog.logrocket.com/a-guide-to-react-onclick-event-handlers-d411943b14dd/
  
-Name: How does synthetic work in asynchronous way?
+Name: How does synthetic event work in asynchronous way?
 Link: https://deepscan.io/docs/rules/react-missing-event-persist
+  
+08-07-2021
+Name: when should you use function as first parameter in setState function in React?
+Link: https://medium.com/@wisecobbler/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1
