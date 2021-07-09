@@ -278,3 +278,8 @@ Link: https://medium.com/@wisecobbler/using-a-function-in-setstate-instead-of-an
   
 Name: React interview questions
 Link: https://ui.dev/react-interview-questions/
+  
+09-07-2021
+Name: What is XSS and how to prevent it as a web developer
+Link: https://academind.com/tutorials/xss-cross-site-scripting-attacks/
+Link: https://academind.com/tutorials/hide-javascript-code/
