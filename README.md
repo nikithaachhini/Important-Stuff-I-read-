@@ -283,3 +283,7 @@ Link: https://ui.dev/react-interview-questions/
 Name: What is XSS and how to prevent it as a web developer
 Link: https://academind.com/tutorials/xss-cross-site-scripting-attacks/
 Link: https://academind.com/tutorials/hide-javascript-code/
+  
+12-07-2021
+Name: Currying in JS? How to implement sum function as a partial
+Link: https://javascript.info/currying-partials
