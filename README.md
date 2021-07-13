@@ -287,3 +287,7 @@ Link: https://academind.com/tutorials/hide-javascript-code/
 12-07-2021
 Name: Currying in JS? How to implement sum function as a partial
 Link: https://javascript.info/currying-partials
+  
+13-07-2021
+Name: undefined vs undeclared vs null in JS
+Link: https://techbrij.com/javascript-null-undefined-undeclared
