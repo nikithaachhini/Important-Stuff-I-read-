@@ -291,3 +291,8 @@ Link: https://javascript.info/currying-partials
 13-07-2021
 Name: undefined vs undeclared vs null in JS
 Link: https://techbrij.com/javascript-null-undefined-undeclared
+  
+  
+21-07-2021
+Name: callback vs promises vs async/await
+Link: https://www.loginradius.com/blog/async/callback-vs-promises-vs-async-await/
