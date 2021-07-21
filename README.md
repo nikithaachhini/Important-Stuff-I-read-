@@ -296,3 +296,6 @@ Link: https://techbrij.com/javascript-null-undefined-undeclared
 21-07-2021
 Name: callback vs promises vs async/await
 Link: https://www.loginradius.com/blog/async/callback-vs-promises-vs-async-await/
+  
+Name: SOLID design patterns
+Link: https://blog.logrocket.com/solid-principles-single-responsibility-in-javascript-frameworks/
