@@ -299,3 +299,10 @@ Link: https://www.loginradius.com/blog/async/callback-vs-promises-vs-async-await
   
 Name: SOLID design patterns
 Link: https://blog.logrocket.com/solid-principles-single-responsibility-in-javascript-frameworks/
+  
+22-07-2021
+Name: real world problem solving
+Link: https://www.educative.io/blog/crack-coding-interview-real-world-problems
+Link: https://medium.datadriveninvestor.com/9-real-world-software-engineering-interview-questions-cb1a0901d47d
+Link: https://www.indeed.com/career-advice/interviewing/problem-solving-interview-questions
+Link: https://blog.postman.com/how-postman-created-data-hiring-process/
