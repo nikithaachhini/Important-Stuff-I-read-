@@ -306,3 +306,13 @@ Link: https://www.educative.io/blog/crack-coding-interview-real-world-problems
 Link: https://medium.datadriveninvestor.com/9-real-world-software-engineering-interview-questions-cb1a0901d47d
 Link: https://www.indeed.com/career-advice/interviewing/problem-solving-interview-questions
 Link: https://blog.postman.com/how-postman-created-data-hiring-process/
+  
+28-07-2021
+Name: JS Interview questions
+Link: https://dev.to/macmacky/70-javascript-interview-questions-5gfi
+
+Name: Physical Exercise for WFh
+Link: https://docs.google.com/document/d/1O1qRGyYZNSm5bxearraxQRna9-GVr6etagPFui5lmKM/edit#heading=h.gawohpdb8bsg
+  
+Name: SQL - learn
+Link:http://www.zixem.altervista.org/SQLi/
